@@ -2,7 +2,7 @@
 // 価格は “数値” で持つ：表示は app.js で locale に合わせてフォーマット
 window.MENU = {
     options: {
-      defaultLang: "en",
+      defaultLang: "fa",
       currency: "IRR",        // 表示したくないなら app.js 側で非表示化可能
       showCurrencySymbol: false,
       imageBasePath: "./assets/menu/",
