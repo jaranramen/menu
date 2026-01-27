@@ -3,7 +3,7 @@
     const $ = (sel) => document.querySelector(sel);
   
     const state = {
-      lang: window.MENU?.options?.defaultLang || "en",
+      lang: window.MENU?.options?.defaultLang || "fa",
     };
   
     function isRTL(lang) {
