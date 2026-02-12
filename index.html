@@ -38,11 +38,46 @@
       <p id="commit-text" class="italic text-gray-600 text-xs leading-relaxed"></p>
     </section>
 
-    <!-- セクションはJSで生成（カテゴリー追加が容易） -->
     <div id="sections-root"></div>
-
-    <div class="footer-note" id="footer-note"></div>
   </main>
+
+  <!-- Footer -->
+  <footer class="site-footer px-4 mt-10 pb-10" aria-label="Footer">
+
+    <!-- 既存の税表記（app.jsが言語切替でテキストを入れる） -->
+    <div class="footer-note" id="footer-note"></div>
+
+    <div class="footer-links">
+      <a class="footer-icon"
+        href="https://www.instagram.com/jaran_ramen/"
+        target="_blank" rel="noopener noreferrer"
+        aria-label="Instagram">
+        <!-- Instagram SVG -->
+        <svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true" focusable="false">
+          <path d="M7 2C4.24 2 2 4.24 2 7v10c0 2.76 2.24 5 5 5h10c2.76 0 5-2.24 5-5V7c0-2.76-2.24-5-5-5H7zm10 2c1.65 0 3 1.35 3 3v10c0 1.65-1.35 3-3 3H7c-1.65 0-3-1.35-3-3V7c0-1.65 1.35-3 3-3h10zm-5 3.5A4.5 4.5 0 1 0 16.5 12 4.5 4.5 0 0 0 12 7.5zm0 2A2.5 2.5 0 1 1 9.5 12 2.5 2.5 0 0 1 12 9.5zM17.75 6.25a1 1 0 1 0 0 2 1 1 0 0 0 0-2z"/>
+        </svg>
+      </a>
+
+      <a class="footer-icon"
+        href="https://maps.app.goo.gl/GfHYjdfiixksD9pF9"
+        target="_blank" rel="noopener noreferrer"
+        aria-label="Google Maps">
+        <!-- Map pin SVG -->
+        <svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true" focusable="false">
+          <path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5A2.5 2.5 0 1 1 14.5 9 2.5 2.5 0 0 1 12 11.5z"/>
+        </svg>
+      </a>
+    </div>
+
+
+    <!-- TODO: 店舗住所に置換（必要なら英/ペルシャ語で2行にしてOK） -->
+    <div class="footer-address">
+      Yazd, Iran / بلوار فلسطین جنب املاک رفیعی
+    </div>
+
+
+  </footer>
+
 
   <!-- Modal（将来の詳細表示拡張用。今の段階で実装も入れる） -->
   <div id="modal-overlay" class="modal-overlay" hidden></div>
