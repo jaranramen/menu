@@ -57,7 +57,7 @@ window.MENU = {
               en: "A clean chicken broth with classic shoyu aroma. Balanced umami, light finish.",
               fa: "آب مرغ شفاف با عطر کلاسیک شویو. اومامی متعادل و پایان سبک.",
             },
-            price: 400000,
+            price: 440000,
             // image を省略すると assets/menu/{id}.webp を参照
             // image: "ramen-shoyu.webp",
             tags: ["signature"],
@@ -70,7 +70,7 @@ window.MENU = {
               en: "Salt-forward, crystal-clear chicken broth. Simple and aromatic.",
               fa: "آب مرغ شفاف با تمرکز بر نمک. ساده و خوش‌عطر.",
             },
-            price: 400000,
+            price: 440000,
             tags: ["light"],
           },
           {
@@ -81,7 +81,7 @@ window.MENU = {
               en: "Chicken broth blended with miso for a deeper, richer profile.",
               fa: "ترکیب آب مرغ با میسو برای طعمی عمیق‌تر و غنی‌تر.",
             },
-            price: 500000,
+            price: 550000,
             tags: ["rich"],
           },
         ],
@@ -99,7 +99,7 @@ window.MENU = {
               en: "Slow-cooked chashu served over steamed rice. Comforting and filling.",
               fa: "چاشوی آرام‌پز روی برنج بخارپز. سیرکننده و خوش‌خوراک.",
             },
-            price: 350000,
+            price: 385000,
             tags: ["popular"],
             // status: "comingSoon" // ← これ
           },
@@ -111,7 +111,7 @@ window.MENU = {
               en: "Crispy karaage with sauce over rice. Great with a side soup.",
               fa: "کاراآگه ترد با سس روی برنج. عالی کنار سوپ.",
             },
-            price: 300000,
+            price: 330000,
           },
           {
             id: "bowl-soboro-don",
@@ -121,7 +121,7 @@ window.MENU = {
               en: "Seasoned minced chicken over rice. Mild and kid-friendly.",
               fa: "مرغ چرخ‌کرده مزه‌دار روی برنج. ملایم و مناسب خانواده.",
             },
-            price: 250000,
+            price: 275000,
           },
         //   {
         //   id: "bowl-flakes-don",
@@ -148,7 +148,7 @@ window.MENU = {
               en: "Pan-fried gyoza with a crisp base. Served with dipping sauce.",
               fa: "گیوزای سرخ‌شده با کف ترد. همراه سس مخصوص.",
             },
-            price: 200000,
+            price: 220000,
           },
           {
             id: "side-karaage",
@@ -158,7 +158,7 @@ window.MENU = {
               en: "Juicy karaage, freshly fried. Best eaten hot.",
               fa: "کاراآگه آبدار و تازه‌سرخ‌شده. بهترین حالت داغ.",
             },
-            price: 200000,
+            price: 220000,
           },
           // {
           //   id: "side-rice",
@@ -186,7 +186,7 @@ window.MENU = {
             name: { en: "Chashu", fa: "چاشو" },
             descShort: { en: "Extra 3 slices of chashu.", fa: "ورقه‌های اضافی گوشت." },
             descLong: { en: "Extra 3 slices of chashu. ", fa: "چند ورقه چاشوی اضافه." },
-            price: 130000,
+            price: 110000,
           },
           // {
           //   id: "top-negi",
@@ -207,7 +207,7 @@ window.MENU = {
             name: { en: "Soboro", fa: "سوبورو" },
             descShort: { en: "Minced chicken topping.", fa: "مرغ چرخ‌کرده اضافی." },
             descLong: { en: "Seasoned minced chicken.", fa: "مرغ چرخ‌کرده مزه‌دار." },
-            price: 130000,
+            price: 110000,
           },
         ],
       },
