@@ -21,7 +21,7 @@ window.MENU = {
           desserts: "Desserts",
           drinks: "Drinks",
         },
-        footer: "All prices are exclusive of tax. A separate 10% consumption tax will be charged.",
+        footer: "All prices are inclusive of tax.",
         labels: {
           comingSoon: "COMING SOON" // en
         }
@@ -36,7 +36,7 @@ window.MENU = {
           desserts: "دسر",
           drinks: "نوشیدنی",
         },
-        footer: "تمام قیمت‌ها بدون احتساب مالیات هستند. 10% مالیات بر مصرف جداگانه دریافت خواهد شد.",
+        footer: "تمام قیمت ها شامل مالیات هستند",
         labels: {
           comingSoon: "به‌زودی"
         }
