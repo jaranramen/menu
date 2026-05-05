@@ -89,7 +89,7 @@
     border-radius: var(--radius);
     box-shadow: var(--shadow);
     overflow:hidden;
-    text-align: left;
+    text-align: right;
     border: 1px solid rgba(0,0,0,.04);
     transition: transform .08s ease, box-shadow .08s ease;
   }
@@ -339,5 +339,3 @@
 .footer-icon svg{
   display: block;
 }
-
-
