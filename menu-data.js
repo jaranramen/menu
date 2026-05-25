@@ -157,6 +157,19 @@ window.MENU = {
             },
             "price": 650000
           },
+          {
+            "id": "bowl-curry-rice",
+            "name": { "en": "Japanese Curry Rice", "fa": "کاری ژاپنی با برنج" },
+            "descShort": {
+              "en": "Rich Japanese curry served with steamed rice.",
+              "fa": "کاری غلیظ ژاپنی همراه با برنج بخارپز."
+            },
+            "descLong": {
+              "en": "A comforting Japanese-style curry made with tender chicken and onions, blended with our original curry spice mix and served over steamed rice.",
+              "fa": "یک کاری سبک ژاپنی با مرغ نرم و پیاز که با ترکیب ادویه کاری مخصوص ما تهیه شده و همراه با برنج بخارپز سرو می‌شود."              
+            },
+            "price": 400000
+          }
           // {
           //   "id": "bowl-aburi-salmon-don",
           //   "name": { "en": "Aburi Salmon Don", "fa": "سالمون دون آبوری" },
@@ -376,7 +389,7 @@ window.MENU = {
         
           {
             id: "dessert-mochi-ice",
-            name: { en: "Mochi Ice", fa: "کرم بروله" },
+            name: { en: "Mochi Ice", fa: "موچی ایس" },
             descShort: { en: "Soft rice cake filled with creamy ice cream.", fa: "خمیر نرم برنجی با بستنی خامه‌ای داخل آن." },
             descLong: { en: "A Japanese dessert made of soft and chewy rice cake (mochi) wrapped around creamy ice cream.", fa: "یک دسر ژاپنی که از خمیر نرم و کش‌دار برنج (موچی) تشکیل شده و داخل آن بستنی خامه‌ای قرار دارد." },
             price: 100000,
