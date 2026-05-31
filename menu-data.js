@@ -110,7 +110,7 @@ window.MENU = {
               en: "Slow-cooked chashu served over steamed rice. Comforting and filling.",
               fa: "چاشوی آرام‌پز روی برنج بخارپز. سیرکننده و خوش‌خوراک.",
             },
-            price: 400000,
+            price: 500000,
             tags: ["popular"],
             // status: "comingSoon" // ← これ
           },
@@ -122,7 +122,7 @@ window.MENU = {
               en: "Crispy karaage with sauce over rice. Great with a side soup.",
               fa: "کاراآگه ترد با سس روی برنج. عالی کنار سوپ.",
             },
-            price: 400000,
+            price: 500000,
           },
           // {
           //   id: "bowl-soboro-don",
@@ -303,7 +303,7 @@ window.MENU = {
               en: "Pan-fried gyoza with a crisp base. Served with dipping sauce.",
               fa: "گیوزای سرخ‌شده با کف ترد. همراه سس مخصوص.",
             },
-            price: 250000,
+            price: 300000,
           },
           {
             id: "side-karaage",
@@ -313,7 +313,7 @@ window.MENU = {
               en: "Juicy karaage, freshly fried. Best eaten hot.",
               fa: "کاراآگه آبدار و تازه‌سرخ‌شده. بهترین حالت داغ.",
             },
-            price: 300000,
+            price: 400000,
           },
           // {
           //   id: "side-rice",
@@ -341,7 +341,7 @@ window.MENU = {
             name: { en: "Chashu", fa: "چاشو" },
             descShort: { en: "Extra 3 slices of chashu.", fa: "ورقه‌های اضافی گوشت." },
             descLong: { en: "Extra 3 slices of chashu. ", fa: "چند ورقه چاشوی اضافه." },
-            price: 120000,
+            price: 150000,
           },
           // {
           //   id: "top-negi",
