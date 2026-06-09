@@ -144,19 +144,19 @@ window.MENU = {
           },
           price: 350000,
           },
-          {
-            "id": "bowl-salmon-don",
-            "name": { "en": "Salmon Don", "fa": "سالمون دون" },
-            "descShort": {
-              "en": "Fresh salmon slices over rice.",
-              "fa": "برش‌های سالمون تازه روی برنج."
-            },
-            "descLong": {
-              "en": "A Japanese rice bowl topped with fresh salmon slices served over warm rice.",
-              "fa": "یک غذای ژاپنی شامل برنج که با برش‌های تازه سالمون روی آن سرو می‌شود."
-            },
-            "price": 650000
-          },
+          // {
+          //   "id": "bowl-salmon-don",
+          //   "name": { "en": "Salmon Don", "fa": "سالمون دون" },
+          //   "descShort": {
+          //     "en": "Fresh salmon slices over rice.",
+          //     "fa": "برش‌های سالمون تازه روی برنج."
+          //   },
+          //   "descLong": {
+          //     "en": "A Japanese rice bowl topped with fresh salmon slices served over warm rice.",
+          //     "fa": "یک غذای ژاپنی شامل برنج که با برش‌های تازه سالمون روی آن سرو می‌شود."
+          //   },
+          //   "price": 650000
+          // },
           {
             "id": "bowl-curry-rice",
             "name": { "en": "Japanese Curry Rice", "fa": "کاری ژاپنی با برنج" },
@@ -219,20 +219,20 @@ window.MENU = {
             "price": 400000,
             // "tags": ["popular"]
           },
-          {
-            "id": "sushi-salmon-nigiri",
-            "name": { "en": "Salmon sushi nigiri", "fa": "سوشی نیگیری سالمون" },
-            "descShort": {
-              "en": "Fresh salmon over pressed sushi rice.",
-              "fa": "سالمون تازه روی برنج فشرده سوشی."
-            },
-            "descLong": {
-              "en": "Fresh salmon placed over hand-pressed sushi rice. 1 piece.",
-              "fa": "سالمون تازه روی برنج فشرده سوشی قرار می‌گیرد. شامل ۱ تکه."
-            },
-            "price": 200000,
-            // "tags": ["popular"]
-          },
+          // {
+          //   "id": "sushi-salmon-nigiri",
+          //   "name": { "en": "Salmon sushi nigiri", "fa": "سوشی نیگیری سالمون" },
+          //   "descShort": {
+          //     "en": "Fresh salmon over pressed sushi rice.",
+          //     "fa": "سالمون تازه روی برنج فشرده سوشی."
+          //   },
+          //   "descLong": {
+          //     "en": "Fresh salmon placed over hand-pressed sushi rice. 1 piece.",
+          //     "fa": "سالمون تازه روی برنج فشرده سوشی قرار می‌گیرد. شامل ۱ تکه."
+          //   },
+          //   "price": 200000,
+          //   // "tags": ["popular"]
+          // },
           {
             "id": "sushi-chicken-roll",
             "name": { "en": "Chicken sushi roll", "fa": "سوشی رول مرغ" },
