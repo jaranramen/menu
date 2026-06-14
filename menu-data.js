@@ -141,8 +141,18 @@ window.MENU = {
           descLong: {
             en: "Flavoured fillet chicken flakes over rice. Mild and kid-friendly.",
             fa: "فیله مرغ طعم‌دار شده روی برنج ژاپنی. ملایم و مناسب برای کودکان.",
-          },
+          },          
           price: 350000,
+          },
+          {
+            id: "bowl-chickenkatsu-don",
+            name: { en: "Chicken Katsu-don (with Sauce)", fa: "چیکن کاتسو دون با سس" },
+            descShort: { en: "Crispy chicken cutlet with savory sauce over rice.", fa: " مرغ ترد همراه با سس مخصوص روی برنج." },
+            descLong: {
+              en: "A delicious rice bowl topped with a crispy, golden-fried chicken cutlet, drizzled with a rich and savory traditional Japanese katsu sauce.",
+              fa: "یک کاسه برنج لذیذ همراه با مرغ ترد و طلایی‌رنگ (کاتسو) که با یک سس مخصوص، غلیظ و سنتی ژاپنی طعم‌دار شده است.",
+            },          
+            price: 550000,
           },
           // {
           //   "id": "bowl-salmon-don",
@@ -169,6 +179,22 @@ window.MENU = {
               "fa": "یک کاری سبک ژاپنی با مرغ نرم و پیاز که با ترکیب ادویه کاری مخصوص ما تهیه شده و همراه با برنج بخارپز سرو می‌شود."              
             },
             "price": 400000
+          }
+          {
+            "id": "bowl-chickenkatsu-curry-rice",
+            "name": { 
+              "en": "Chicken Katsu Curry Rice", 
+              "fa": "کاری مرغ سوخاری (کاتسو) با برنج" 
+            },
+            "descShort": {
+              "en": "Rich Japanese curry served with crispy chicken katsu and steamed rice.",
+              "fa": "کاری غلیظ ژاپنی همراه با مرغ سوخاری ترد (کاتسو) و برنج بخارپز."
+            },
+            "descLong": {
+              "en": "A comforting Japanese-style curry topped with a crispy, golden chicken katsu, blended with our original curry spice mix and served over steamed rice.",
+              "fa": "یک کاری خوشطعم به سبک ژاپنی همراه با مرغ سوخاری (کاتسو) ترد و طلایی که با ترکیب ادویه کاری مخصوص ما تهیه شده و روی برنج بخارپز سرو می‌شود."              
+            },
+            "price": 700000
           }
           // {
           //   "id": "bowl-aburi-salmon-don",
@@ -314,6 +340,16 @@ window.MENU = {
               fa: "کاراآگه آبدار و تازه‌سرخ‌شده. بهترین حالت داغ.",
             },
             price: 400000,
+          },
+          {
+            id: "side-chickenkatsu",
+            name: { en: "Chicken Katsu", fa: "چیکن کاتسو" },
+            descShort: { en: "Crispy fried chicken cutlet.", fa: " مرغ سوخاری و ترد ." },
+            descLong: {
+              en: "Crispy, golden-fried chicken cutlets served with a rich, savory katsu sauce. Perfectly crunchy on the outside and tender inside.",
+              fa:" مرغ ترد و طلایی‌رنگ که همراه با سس مخصوص و غلیظ کاتسو سرو می‌شوند. کاملاً ترد در بیرون و نرم و آبدار در داخل.",
+            },
+            price: 350000,
           },
           // {
           //   id: "side-rice",
