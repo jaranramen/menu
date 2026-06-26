@@ -180,22 +180,6 @@ window.MENU = {
             },
             "price": 400000
           }
-          {
-            "id": "bowl-chickenkatsu-curry-rice",
-            "name": { 
-              "en": "Chicken Katsu Curry Rice", 
-              "fa": "کاری مرغ سوخاری (کاتسو) با برنج" 
-            },
-            "descShort": {
-              "en": "Rich Japanese curry served with crispy chicken katsu and steamed rice.",
-              "fa": "کاری غلیظ ژاپنی همراه با مرغ سوخاری ترد (کاتسو) و برنج بخارپز."
-            },
-            "descLong": {
-              "en": "A comforting Japanese-style curry topped with a crispy, golden chicken katsu, blended with our original curry spice mix and served over steamed rice.",
-              "fa": "یک کاری خوشطعم به سبک ژاپنی همراه با مرغ سوخاری (کاتسو) ترد و طلایی که با ترکیب ادویه کاری مخصوص ما تهیه شده و روی برنج بخارپز سرو می‌شود."              
-            },
-            "price": 700000
-          }
           // {
           //   "id": "bowl-aburi-salmon-don",
           //   "name": { "en": "Aburi Salmon Don", "fa": "سالمون دون آبوری" },
