@@ -412,7 +412,7 @@ window.MENU = {
             name: { en: "Mochi Ice", fa: "موچی ایس" },
             descShort: { en: "Soft rice cake filled with creamy ice cream.", fa: "خمیر نرم برنجی با بستنی خامه‌ای داخل آن." },
             descLong: { en: "A Japanese dessert made of soft and chewy rice cake (mochi) wrapped around creamy ice cream.", fa: "یک دسر ژاپنی که از خمیر نرم و کش‌دار برنج (موچی) تشکیل شده و داخل آن بستنی خامه‌ای قرار دارد." },
-            price: 100000,
+            price: 150000,
             // status: "comingSoon" // ← これ
           },
         ],
