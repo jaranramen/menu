@@ -398,14 +398,14 @@ window.MENU = {
         key: "desserts",
         icon: "🍮",
         items: [
-        //   {
-        //     id: "dessert-creme-brulee",
-        //     name: { en: "Crème Brûlée", fa: "کرم بروله" },
-        //     descShort: { en: "Rich custard dessert.", fa: "دسر کاستارد غنی." },
-        //     descLong: { en: "Silky custard with caramelized sugar top.", fa: "کاستارد لطیف با رویه کاراملی." },
-        //     price: 150000,
-        //     // status: "comingSoon" // ← これ
-        //   },        
+          // {
+          //   id: "dessert-creme-brulee",
+          //   name: { en: "Crème Brûlée", fa: "کرم بروله" },
+          //   descShort: { en: "Rich custard dessert.", fa: "دسر کاستارد غنی." },
+          //   descLong: { en: "Silky custard with caramelized sugar top.", fa: "کاستارد لطیف با رویه کاراملی." },
+          //   price: 250000,
+          //   // status: "comingSoon" // ← これ
+          // },        
         
           {
             id: "dessert-mochi-ice",
